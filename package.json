@@ -2,31 +2,144 @@
   
 
   "name": "sound-system",
+
+  "publisher": "JaredMedeiros",
+  
+
   "displayName": "sound system",
+  
+
   "description": "A simplistic, easy, dark mode theme. Inspired by vintage german recording gear and early century british/us military electronics",
+  
+
   "repository": {
-    "type": "git",
-    "url": "https://github.com/JaredMedeiros/soundsystem"
+  
+
+    
+
+  "type": "git",
+  
+
+    
+
+  "url": "https://github.com/JaredMedeiros/soundsystem"
+  
+
   },
+
+  "icon": "soundsystem.png",
+  
+
   "keywords": [
-    "theme",
-    "dark theme",
-    "soundsystem"
+  
+
+    
+
+  "theme",
+  
+
+    
+
+  "dark theme",
+  
+
+    
+
+  "soundsystem"
+  
+
   ],
+  
+
   "version": "0.0.1",
+  
+
   "engines": {
-    "vscode": "^1.84.0"
+  
+
+    
+
+  "vscode": "^1.7.0"
+  
+
   },
+  
+
   "categories": [
-    "Themes"
+  
+
+    
+
+  "Themes"
+  
+
   ],
+  
+
   "contributes": {
-    "themes": [
-      {
-        "label": "soundsystem",
-        "uiTheme": "vs-dark",
-        "path": "./themes/soundsystem-color-theme.json"
-      }
-    ]
+  
+
+    
+
+  "themes": [
+  
+
+    
+
+    
+
+  {
+  
+
+    
+
+    
+
+    
+
+  "label": "soundsystem",
+  
+
+    
+
+    
+
+    
+
+  "uiTheme": "vs-dark",
+  
+
+    
+
+    
+
+    
+
+  "path": "./themes/soundsystem-color-theme.json"
+  
+
+    
+
+    
+
+  }
+  
+
+    
+
+  ]
+  
+
+  },
+  
+
+  "dependencies": {
+  
+
+    
+
+  "vsce": "^2.15.0"
+  
+
   }
 }

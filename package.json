@@ -1,0 +1,23 @@
+{
+  
+
+  "name": "sound-system",
+  "displayName": "sound system",
+  "description": "A simplistic, easy, dark mode theme. Inspired by vintage german recording gear and early century british/us military electronics",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "soundsystem",
+        "uiTheme": "vs-dark",
+        "path": "./themes/soundsystem-color-theme.json"
+      }
+    ]
+  }
+}

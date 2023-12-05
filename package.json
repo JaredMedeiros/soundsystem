@@ -4,6 +4,15 @@
   "name": "sound-system",
   "displayName": "sound system",
   "description": "A simplistic, easy, dark mode theme. Inspired by vintage german recording gear and early century british/us military electronics",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JaredMedeiros/soundsystem"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "soundsystem"
+  ],
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.84.0"

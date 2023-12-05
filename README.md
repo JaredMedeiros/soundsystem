@@ -1,5 +1,5 @@
 # soundsystem README
 
-Hi :) 
+Hi :D
 
 **Enjoy!**
